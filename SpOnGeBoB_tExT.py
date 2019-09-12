@@ -6,3 +6,4 @@ for i in range (0,len(x)):
     else:
         y+=x[i].lower()
 print(y)
+#ThIs Is SpOnGeBoB tExT
